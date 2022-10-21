@@ -24,5 +24,8 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'nature'
-html_static_path = ['_static']
+# html_theme = 'nature'
+# html_static_path = ['_static']
+
+html_theme = 'sphinx_bernard_theme'
+html_theme_path = [sphinx_bernard_theme.get_html_theme_path()]
