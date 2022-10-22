@@ -10,7 +10,9 @@ Welcome to bbqtest's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   animal
 
+   tree
 
 Indices and tables
 ==================
