@@ -14,6 +14,8 @@ Welcome to bbqtest's documentation!
 
    tree
 
+   dog
+   
 Indices and tables
 ==================
 
